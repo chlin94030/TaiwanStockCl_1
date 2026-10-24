@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+data/
+data_demo/
+artifacts/
+.streamlit/secrets.toml
+*.tar.gz
+.pytest_cache/
+.venv/
+status/auto.log
